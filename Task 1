@@ -12,7 +12,7 @@ public class NumberGame {
         int totalScore = 0;
 
         System.out.println("Welcome to the NUMBER GAME!");
-        System.out.println("Hello Player! This is a number game in which you have to guess a random number from 1 to 100 and check whether you have guessed the number same as me. Unlock many prizes after the correct guess.");
+        System.out.println("Hello Player! This is a number game in which you have to guess a random number from 1 to 100 and check whether you have guessed the number same as me. So let's begin.");
         System.out.println("You have 5 attempts to guess the correct number.");
 
         boolean playing = true;
