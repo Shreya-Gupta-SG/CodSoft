@@ -35,9 +35,9 @@ public class NumberGame {
                     guessedCorrectly = true;
                     break;
                 } else if (userGuess < systemGuess) {
-                    System.out.println("Too low! Try again.");
+                    System.out.println("Too low! Keep going. Try again.");
                 } else {
-                    System.out.println("Too high! Try again.");
+                    System.out.println("Too high! Keep going. Try again.");
                 }
             }
 
